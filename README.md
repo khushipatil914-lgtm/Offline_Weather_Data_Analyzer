@@ -173,4 +173,4 @@ python -m src.cli --data sample_data/weather_data.csv --mode predict --predict_d
 
 Name:Khushboo Vinod Patil
 Reg. no. 25MIM10104
-VIT VBHOPAL UNIVERSITY
+VIT BHOPAL UNIVERSITY
