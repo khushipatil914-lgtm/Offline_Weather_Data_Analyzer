@@ -1,0 +1,1 @@
+{'count': 10, 'temp_mean': 26.69, 'temp_min': 22.5, 'temp_max': 31.0, 'humidity_mean': 71.5, 'wind_mean': 14.1, 'total_precip': 15.600000000000001}
